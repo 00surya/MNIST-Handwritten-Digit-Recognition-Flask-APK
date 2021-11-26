@@ -1,0 +1,7 @@
+numpy
+pandas
+joblib
+scikit-learn
+keras
+tensorflow-cpu
+Flask==1.1.1
